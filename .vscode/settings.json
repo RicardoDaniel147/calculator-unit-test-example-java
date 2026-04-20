@@ -2,5 +2,6 @@
     "files.watcherExclude": {
         "**/target": true
     },
-    "snyk.advanced.autoSelectOrganization": true
+    "snyk.advanced.autoSelectOrganization": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
